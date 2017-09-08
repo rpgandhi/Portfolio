@@ -6,12 +6,12 @@ background-color: #f1f1f1;
 h2 {
   font-family: "Times New Roman", Times, serif;
 }
-div.jumbotron {
-  align-content: center;
-}
+
+/* Move image to center */
 img {
   align-content: center;
 }
+
 /* Change color of header2 */
 h2 {
   color:#4a4c4f;
