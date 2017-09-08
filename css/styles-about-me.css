@@ -1,0 +1,37 @@
+/*html {
+  background: src"http://freebigpictures.com/wp-content/uploads/2009/09/coniferous-forest.jpg" no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+.unstyled {
+  list-style-type: none;
+}
+
+img {
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+@media screen and (max-width: 1024px) {
+  img {
+    left: 50%;
+    margin-left: -512px;
+  }
+  #float {
+  position: inline
+  text-align: center;
+  z-index: 100;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  }
+  .unstyled {
+    list-style-type: none;
+  }
