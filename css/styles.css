@@ -2,16 +2,16 @@
 body {
 background-color: #add5d6;
 }
-/* Change h2 font */
-h2 {
-  font-family: "Times New Roman", Times, serif;
+/*Change h2 font size */
+h1 {
+  font-size: 500%;
 }
-
 /* Move image to center */
 img {
   align-content: center;
+  width: 1000px;
+  height: 600px;
 }
-
 /* Change color of header2 */
 h3 {
   color:#4a4c4f;
@@ -19,29 +19,25 @@ h3 {
 .unstyled {
   list-style-type: none;
 }
-
+/* Add style to ul */
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 200px;
     background-color: #f1f1f1;
-
 }
-
-
+/* Add style to ul */
 li a {
     display: block;
     color: #000;
-    padding: 8px 16px;
+    padding: 24px 16px;
     text-decoration: none;
 }
-
 /* Change the link color on hover */
 li a:hover {
     background-color: #555;
     color: white;
-
 }
 /*
 li {
