@@ -1,17 +1,12 @@
-/*html {
-  background: src"http://freebigpictures.com/wp-content/uploads/2009/09/coniferous-forest.jpg" no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}*/
 body {
 background-color: #add5d6;
+}
+#bigfont {
+  font-size: 130%;
 }
 .unstyled {
   list-style-type: none;
 }
-
 img {
   min-height: 100%;
   min-width: 1024px;
@@ -25,7 +20,7 @@ img {
   img {
     left: 50%;
     margin-left: -512px;
-  }
+}
   #float {
   position: inline
   text-align: center;
@@ -36,4 +31,14 @@ img {
   }
   .unstyled {
     list-style-type: none;
-  }
+}
+
+
+  /*Please disregard! I would like to save the below code to play around with later. Thanks!
+  html {
+    background: src"http://freebigpictures.com/wp-content/uploads/2009/09/coniferous-forest.jpg" no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }*/
