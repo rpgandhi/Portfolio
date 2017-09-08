@@ -1,12 +1,12 @@
-# _{Personal Portfolio}_
+# _Personal Portfolio_
 
-#### _{Portfilio to showcase Epicodus projects}, {09.08.2017}_
+#### _Portfilio to showcase Epicodus projects, 09.08.2017_
 
-#### By _**{Rakhee Gandhi}**_
+#### By _**Rakhee Gandhi**_
 
 ## Description
 
-_{This is a portfolio page designed to link to project repositories on Github. It also contains an "About Me" section and a contact page.}_
+_This is a portfolio page designed to link to project repositories on Github. It also contains an "About Me" section and a contact page._
 
 ## Setup/Installation Requirements
 
@@ -14,15 +14,15 @@ _{This is a portfolio page designed to link to project repositories on Github. I
 
 ## Known Bugs
 
-_{There are no known bugs.}_
+_There are no known bugs._
 
 ## Support and contact details
 
-_{Please feel free to send me a message on Github with any suggestions or comments.}_
+_Please feel free to send me a message on Github with any suggestions or comments._
 
 ## Technologies Used
 
-_{I used HTML, CSS, and Bootstrap to create this page.}_
+_HTML, CSS, and Bootstrap_
 
 
-Copyright (c) 2017 **_{Rakhee Gandhi}_**
+Copyright (c) 2017 **_Rakhee Gandhi_**
