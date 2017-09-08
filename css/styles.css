@@ -2,6 +2,10 @@
 body {
 background-color: #f1f1f1;
 }
+/* Change h2 font */
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
 div.jumbotron {
   align-content: center;
 }
